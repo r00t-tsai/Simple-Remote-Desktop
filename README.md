@@ -26,7 +26,7 @@ A lightweight remote desktop application built entirely in C++ for Windows. It a
 > Side Note: If on WAN Mode, your router must be configured to do Port Forwarding. The Program assumes this condition and will spit errors if this condition is not met.
 > ## TO-DO LIST for v1.1.4
 > 
-> * Implement support for UAC Popups and Windows Security Screen
+> * ~~Implement support for UAC Popups and Windows Security Screen~~ This is not possible with current security reasons.
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/2a1bee6e-d966-4a84-b1d4-9d6f2e521f3b" width="800" controls></video>
